@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background-color:black;
+    width: 100%;
+    justify-content: center;
+    color: white;
+}
+
+.main{
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+    height: 88vh;
+    text-align: center;
+}
+
+h1{
+    font-size: 2.4rem;
+    font-family: 'Galindo', cursive;
+    color: white;
+    margin: auto;
+    left: 50%;
+}
+
+.logo{
+    width:6rem ;
+    margin: auto;
+}
+
+div div{
+    border: 0.3px solid white;
+    width: 70%;
+    border-radius: 0.3rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.links{
+    margin-top: 2rem;
+}
+
+div h3{
+    margin-bottom: 1rem;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.1rem;
+}
+
+
+.lkdn{
+    background-color: #1714C4;
+
+}
+
+.insta{
+    background-image: linear-gradient(to left,#FF003D,#EB00FF,#1714C4);
+}
+
+.git{
+    background-image: linear-gradient(to left,#001253,#0B355D,#00213A);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+footer p{
+    margin-top: 10vh;
+    font-family: 'Inter', sans-serif;
+}
+
+footer a{
+    color: #ffaa00;
+}
