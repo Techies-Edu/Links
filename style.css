@@ -36,7 +36,7 @@ h1{
 div div{
     border: 0.3px solid white;
     width: 70%;
-    border-radius: 0.3rem;
+    border-radius: 10rem;
     margin: auto;
     margin-bottom: 2rem;
     text-align: center;
@@ -54,8 +54,11 @@ div h3{
 
 
 .lkdn{
-    background-color: #1714C4;
+    background-color: #0A66C2;
 
+}
+.lkdn:hover{
+    background-color: #1210a9;
 }
 
 .insta{
@@ -64,6 +67,15 @@ div h3{
 
 .git{
     background-image: linear-gradient(to left,#001253,#0B355D,#00213A);
+}
+.yt:hover{
+    background-color: #1c1c1c;
+    transition: 0.2s;
+
+}
+
+.discord{
+    background-color: #4938b3;
 }
 
 a{
